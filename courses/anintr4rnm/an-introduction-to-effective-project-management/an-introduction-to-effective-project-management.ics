@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTART:20161013
+DTEND:20161015
+LOCATION:London
+UID:ANINTR4rNM@www.optamor.com
+DTSTAMP:20160301T193606Z
+SUMMARY:An Introduction to Effective Project Management
+DESCRIPTION:This highly practical introductory course provides you with all the essential skills, tools andtechniques that you'll need to support you in your project management role. The courseconcentrates on the practical techniques that you can apply directly to your own workplace. This course is focused on exploring the fundamental principles of successful project managementand incorporates a number of easy to apply, effective tools and techniques that, when applied inthe workplace, will allow the…\n\nLink: http://www.optamor.com/courses/anintr4rnm/an-introduction-to-effective-project-management/
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

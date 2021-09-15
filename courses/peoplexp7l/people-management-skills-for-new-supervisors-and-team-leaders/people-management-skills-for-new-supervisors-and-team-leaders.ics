@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTART:20161010
+DTEND:20161012
+LOCATION:London
+UID:PEOPLExP7L@www.optamor.com
+DTSTAMP:20160301T193659Z
+SUMMARY:People Management Skills for New Supervisors and Team Leaders
+DESCRIPTION:By using real life examples, new leaders can return to work feeling motivated and confident that they can make a positive impact in their new role. If you are new to people management this course is the ideal way to gain the skills you require quickly.  By completing pre-course work we link course material to your real life work experiences.  As a new leader you will return to work feeling motivated and confident that you can make a positive impact in your new role.  You will also leave with a…\n\nLink: http://www.optamor.com/courses/peoplexp7l/people-management-skills-for-new-supervisors-and-team-leaders/
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

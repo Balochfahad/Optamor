@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTART:20161205
+DTEND:20161210
+LOCATION:Brighton - American Express Community Stadium
+UID:PRINCEiuJQ@www.optamor.com
+DTSTAMP:20160301T193709Z
+SUMMARY:PRINCE2® Foundation and Practitioner
+DESCRIPTION:The Foundation exam is normally taken during the afternoon of the third day and the Practitioner exam during the morning of the fifth day. Delegates must pass PRINCE2 Foundation level to continue on to the Practitioner element of the course.  The Course: PRINCE2 is an internationally recognised best practice project management methodology. Since its inception in 1989, it has been widely adopted and successfully implemented throughout both the public and private sectors around the world.\n\nLink: http://www.optamor.com/courses/princeiujq/prince2®-foundation-and-practitioner/
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

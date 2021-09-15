@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTART:20161123
+DTEND:20161125
+LOCATION:London
+UID:WORKINjYrM@www.optamor.com
+DTSTAMP:20160301T193721Z
+SUMMARY:Working Assertively
+DESCRIPTION:This course is highly interactive, practical and yet supportive. It uses many different forms of learning to develop assertiveness skills and lift self-confidence to enable you to work more effectively and reclaim your work/life balance. This course provides practical guidance for anyone who needs to develop their assertiveness skills for a range of workplace situations.  You will gain the tools and techniques to make requests assertively, say no to unreasonable demands, proactively address…\n\nLink: http://www.optamor.com/courses/workinjyrm/working-assertively/
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

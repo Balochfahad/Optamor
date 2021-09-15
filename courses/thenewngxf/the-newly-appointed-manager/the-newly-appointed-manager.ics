@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTART:20161201
+DTEND:20161203
+LOCATION:London
+UID:THENEWnGxf@www.optamor.com
+DTSTAMP:20160301T193715Z
+SUMMARY:The Newly Appointed Manager
+DESCRIPTION:This is a practical real life course, which helps to build confidence and skill for first time managers with some experience as they work with their most important and yet complex resource – PEOPLE. This intensive two-day course introduces the manager with some experience to the fundamentals of the managerial role. It focuses on combining the essential skills of time management, people resource management, leadership skills to performance and change management. This course will provide you with…\n\nLink: http://www.optamor.com/courses/thenewngxf/the-newly-appointed-manager/
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

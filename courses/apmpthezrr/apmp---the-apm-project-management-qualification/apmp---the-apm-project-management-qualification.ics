@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTART:20161107
+DTEND:20161112
+LOCATION:London
+UID:APMPTHeZRr@www.optamor.com
+DTSTAMP:20160301T193611Z
+SUMMARY:APMP - The APM Project Management Qualification
+DESCRIPTION:The APMP is the professional qualification awarded by the Association for Project Management. The focus of this intensive course is to provide you with a level of knowledge that will enhance your personal effectiveness in project management and give you a professional qualification that is recognised worldwide.\n\nLink: http://www.optamor.com/courses/apmpthezrr/apmp---the-apm-project-management-qualification/
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

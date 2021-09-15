@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTART:20160721
+DTEND:20160723
+LOCATION:London
+UID:SPEAKIyQon@www.optamor.com
+DTSTAMP:20160301T193712Z
+SUMMARY:Speaking and Presenting with Confidence
+DESCRIPTION:During this two-day workshop we will help you to transform your presentation skills, adding greater control and confidence. In a workshop environment you will plan, prepare, practise and deliver a number of presentations. Some will be recorded for you to view and you will be given feedback on how to enhance your approach and delivery. You will leave us with some tricks of the trade and increased confidence to enhance your delivery and engage any audience.\n\nLink: http://www.optamor.com/courses/speakiyqon/speaking-and-presenting-with-confidence/
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

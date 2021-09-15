@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTART:20160426
+DTEND:20160427
+LOCATION:Pompey Study Centre
+UID:MICROS6f6d@www.optamor.com
+DTSTAMP:20160301T193643Z
+SUMMARY:Microsoft Word Intermediate
+DESCRIPTION:This course will give a better understanding of the facilities available within Word to speed up use and general productivity.\n\nLink: http://www.optamor.com/courses/micros6f6d/microsoft-word-intermediate/
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

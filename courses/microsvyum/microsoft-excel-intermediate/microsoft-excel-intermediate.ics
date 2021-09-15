@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTART:20160601
+DTEND:20160602
+LOCATION:Pompey Study Centre
+UID:MICROSVYum@www.optamor.com
+DTSTAMP:20160301T193641Z
+SUMMARY:Microsoft Excel Intermediate
+DESCRIPTION:Who should attend? Delegates who already have a sound basic working knowledge of Excel whether that is self-taught or having attended the Introduction course.\n\nLink: http://www.optamor.com/courses/microsvyum/microsoft-excel-intermediate/
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

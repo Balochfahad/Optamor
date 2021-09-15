@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTART:20161212
+DTEND:20161215
+LOCATION:Brighton - American Express Community Stadium
+UID:ITIL20tVgk@www.optamor.com
+DTSTAMP:20160301T193640Z
+SUMMARY:ITIL® 2011 Foundation
+DESCRIPTION:ITIL is recognised internationally as the best practice approach to IT service management aligning the provision of IT services with the needs of the business. It is used globally by thousands of organisations throughout the private and public sectors to improve the way in which they implement and manage IT services.  ITIL 2011 Foundation is an introduction to the ITIL framework used by IT service management professionals and leads to the Foundation Certificate in IT Service Management.\n\nLink: http://www.optamor.com/courses/itil20tvgk/itil®-2011-foundation/
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

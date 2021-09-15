@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTART:20160628
+DTEND:20160629
+LOCATION:Pompey Study Centre
+UID:MICROSKfJF@www.optamor.com
+DTSTAMP:20160301T193642Z
+SUMMARY:Microsoft PowerPoint Introduction/Intermediate
+DESCRIPTION:PowerPoint is a powerful presentation application, which allows the user to create intuitive presentations for paper, screen or web output.Delegates should have an understanding of any Windows operating system.&nbsp;All manuals, course materials and post course email support provided.\n\nLink: http://www.optamor.com/courses/microskfjf/microsoft-powerpoint-introduction-intermediate/
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

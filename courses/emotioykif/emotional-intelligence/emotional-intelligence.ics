@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTART:20160329
+DTEND:20160330
+LOCATION:Venue TBC
+UID:EMOTIOykiF@www.optamor.com
+DTSTAMP:20160301T193620Z
+SUMMARY:Emotional Intelligence
+DESCRIPTION:Is it right for me?Emotional Intelligence (E.Q.) is now regarded as a quality that is every bit as important as I.Q. If an organisation’s success depends upon its people, empathy and understanding should be core qualities that are developed as a matter of course. This one day workshop will uncover the basics of E.Q. and how to use tools and techniques to achieve greater personal and professional success for yourself and for others.\n\nLink: http://www.optamor.com/courses/emotioykif/emotional-intelligence/
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

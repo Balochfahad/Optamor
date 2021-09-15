@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTART:20161219
+DTEND:20161220
+LOCATION:London
+UID:EFFECTsxuT@www.optamor.com
+DTSTAMP:20160301T193633Z
+SUMMARY:Effective Time Management
+DESCRIPTION:This course helps to answer the age old question of “Where does all my time go?” It identifies how precious time is and gives you proven techniques to effectively protect and manage it.  Through practical exercises and examination of proven time management tools and techniques the course will give you the ability to plan and prioritise effectively.  This is a highly practical workshop which shows you how and where your time is lost and what impact that has on you and others.\n\nLink: http://www.optamor.com/courses/effectsxut/effective-time-management/
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

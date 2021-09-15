@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTART:20160704
+DTEND:20160707
+LOCATION:Brighton - American Express Community Stadium
+UID:PRINCEN2hD@www.optamor.com
+DTSTAMP:20160301T193654Z
+SUMMARY:PRINCE2® Agile
+DESCRIPTION:The PRINCE2 Agile Practitioner extension module is tailored for organisations and individuals already using PRINCE2 who would like further guidance on how to apply Agile techniques to the world’s most recognised project management method. Developed in response to demand from user communities, PRINCE2 Agile provides more structure, governance and control when working with Agile concepts, methods and techniques.\n\nLink: http://www.optamor.com/courses/princen2hd/prince2®-agile/
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

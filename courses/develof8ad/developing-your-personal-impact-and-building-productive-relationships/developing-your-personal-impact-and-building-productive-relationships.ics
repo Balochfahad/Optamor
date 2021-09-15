@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTART:20161207
+DTEND:20161209
+LOCATION:London
+UID:DEVELOF8ad@www.optamor.com
+DTSTAMP:20160301T193619Z
+SUMMARY:Developing Your Personal Impact and Building Productive Relationships
+DESCRIPTION:This workshop will enable you to think differently about your day-to-day interactions, assess your own style and identify ways to develop new and highly effective approaches to build and manage more productive relationships. It will introduce you to the business benefits of understanding your own and others' Emotional Intelligence and using it to your advantage. This workshop is designed to help you develop your self-awareness of how you come across to others. You will be challenged to be open…\n\nLink: http://www.optamor.com/courses/develof8ad/developing-your-personal-impact-and-building-productive-relationships/
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

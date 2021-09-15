@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTART:20160624
+DTEND:20160625
+LOCATION:Pompey Study Centre
+UID:MICROSlTp1@www.optamor.com
+DTSTAMP:20160301T193635Z
+SUMMARY:Microsoft Excel Advanced
+DESCRIPTION:Who should attend? This course takes users to a high level of knowledge using business analysis tools available in Excel such as performing ‘what-if’ analyses, pivot tables and pivot charts.\n\nLink: http://www.optamor.com/courses/microsltp1/microsoft-excel-advanced/
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR
